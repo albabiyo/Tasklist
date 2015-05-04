@@ -1,2 +1,2 @@
-template: Hello, %s!
-defaultName: Stranger
+template: task, %s!
+defaultName: n/a
